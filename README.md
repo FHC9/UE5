@@ -1,11 +1,25 @@
 # UE5
 [Apprendre Unreal Engine 5 de A à Z](https://www.youtube.com/watch?v=hn98tbztoBg&t=12338s)
 
-🔹 01 INSTALLATION  
-🔹 02 INTERFACE UTILISATEUR    
-🔹 03 CRÉATION MAP  
-🔹 04 FRAMEWORK UNREAL  
-🔹 05 CRÉER UN BLUEPRINT  
-🔹 06 PERSO JOUABLE  
+✅​ 01 INSTALLATION  
+✅​ 02 INTERFACE UTILISATEUR    
+✅​ 03 CRÉATION MAP  
+✅​04 FRAMEWORK UNREAL  
+✅​ 05 CRÉER UN BLUEPRINT  
+✅​ 06 PERSO JOUABLE  
+​⬜ 07 PARAMÉTRER LES INPUTS  
+​⬜ 08 DÉPLACEMENT PERSO  
+​⬜ 09 IA ENNEMI  
+​⬜ 10 PROJECTILE  
+​⬜ 11 ARME À FEU  
+​⬜ 12 DÉGÂTS  
+​⬜ 13 MORT & RESPAWN  
+​⬜ 14 SPAWN ENNEMIS  
+​⬜ 15 ANIMATION PERSO  
+​⬜ 16 ÉQUIPER UNE ARME  
+​⬜ 17 SONS & MUSIQUE  
+​⬜ 18 WIDGETS  
+​⬜ 19 PACKAGING  
+
 
 
